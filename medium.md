@@ -1,5 +1,8 @@
 # Medium draft
 
+**Do not publish yet.** Featured image: https://raw.githubusercontent.com/Timtech4u/herdr-remote/main/images/featured.png
+
+
 Medium has no connector in this setup, so this file is the import-ready post.
 
 ## How to publish

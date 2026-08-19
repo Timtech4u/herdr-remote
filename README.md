@@ -1,10 +1,13 @@
-# The machine can live anywhere. Herdr is how you sit down at it.
+# DRAFT — The machine can live anywhere. Herdr is how you sit down at it.
 
-Article + screenshots. Sequel to [Your AI Coding Agent Deserves Its Own Cloud Machine](https://dev.to/timtech4u/your-ai-coding-agent-deserves-its-own-cloud-machine-1ino).
+**Status: draft.** Not on Medium or DEV.to yet.
 
-**Canonical:** [article.md](article.md)
+![Featured](images/featured.png)
 
-**Medium-ready:** [medium.md](medium.md) — same piece, with notes for import.
+Sequel to [Your AI Coding Agent Deserves Its Own Cloud Machine](https://dev.to/timtech4u/your-ai-coding-agent-deserves-its-own-cloud-machine-1ino).
+
+**Canonical:** [article.md](article.md)  
+**Medium-ready (still a draft):** [medium.md](medium.md)
 
 ## Thesis
 
@@ -14,17 +17,12 @@ Compute is everywhere now: a Vercel Sandbox, a Grok Bot computer, a Cursor VM, a
 herdr --remote box@grey
 ```
 
-## Screenshots
+## Images
 
+- `images/featured.png` — OG / Medium featured (Herdr, Claude, Codex, OpenCode, Cursor + Vercel, Google Cloud, Tailscale)
 - `images/herdr-grok.png` — Herdr TUI on the remote box, Grok 4.6 in the pane
-- `images/tailscale-machines.png` — the tailnet used as one SSH pipe (not required)
-
-## Publish
-
-- **GitHub:** this repo is the source of truth
-- **DEV.to:** paste `article.md` (relative images work if you upload them)
-- **Medium:** see `medium.md`. No Medium API from here — import the GitHub raw URL or paste.
+- `images/tailscale-machines.png` — the tailnet used as one SSH pipe
 
 ## License
 
-Writing: [CC BY 4.0](LICENSE). Screenshots: taken on my machines, same license. Herdr, Tailscale, Vercel, Grok, Cursor are their owners' marks.
+Writing: [CC BY 4.0](LICENSE). Product marks belong to their owners and are used here for identification.

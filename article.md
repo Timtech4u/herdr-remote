@@ -1,5 +1,10 @@
 # The machine can live anywhere. Herdr is how you sit down at it.
 
+
+> **Draft.** Not published to Medium or DEV.to yet.
+
+![Featured: Herdr with Claude, Codex, OpenCode, Cursor, and the machines they run on](images/featured.png)
+
 In April I wrote that [your AI coding agent deserves its own cloud machine](https://dev.to/timtech4u/your-ai-coding-agent-deserves-its-own-cloud-machine-1ino). I meant it. I moved Claude Code onto a GCP VM, put it in tmux, tunneled ports back to localhost, and treated the laptop as a thin client. From my phone I checked on the agent while grabbing coffee.
 
 That article was about *where the work runs*. This one is about *how you sit down at it*.
