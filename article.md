@@ -1,7 +1,6 @@
 # The machine can live anywhere. Herdr is how you sit down at it.
 
 
-> **Draft.** Not published to Medium or DEV.to yet.
 
 ![Featured: Herdr with Claude, Codex, OpenCode, Cursor, and the machines they run on](images/featured.png)
 

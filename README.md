@@ -1,6 +1,6 @@
-# DRAFT — The machine can live anywhere. Herdr is how you sit down at it.
+# The machine can live anywhere. Herdr is how you sit down at it.
 
-**Status: draft.** Not on Medium or DEV.to yet.
+**Status:** Medium draft going up. Featured image is light, no draft stamp.
 
 ![Featured](images/featured.png)
 
